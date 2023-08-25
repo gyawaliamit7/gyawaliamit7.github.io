@@ -7,14 +7,14 @@ I am a Software Engineer with a passion for open source. I specialize in Java, S
 
 You can connect with me on these platforms:
 
-\*   [Medium](https://medium.com/@gyawaliamit): Read my articles  
-\*   [Twitter](https://twitter.com/gyawaliamit7): Follow me on Twitter
-\*   [Github](https://github.com/gyawaliamit7): Check my Repositories
+*   [Github](https://github.com/gyawaliamit7): Check my repositories  
+*   [Medium](https://medium.com/@gyawaliamit): Read my articles  
+*   [Twitter](https://twitter.com/gyawaliamit7): Follow me on Twitter
 
-\## My Latest Project
+## My Latest Project
 
 I'm always working on exciting open-source projects. Check out my most recent open source project:
 
-\*   [Spring HTML Generator Doc](https://gyawaliamit7.github.io/spring-html-generator-doc)
+*   [Spring HTML Generator Doc](https://gyawaliamit7.github.io/spring-html-generator-doc)
 
 Feel free to explore my repositories, ask questions, or just say hi!
